@@ -8,3 +8,6 @@ Section 4
 
 Section 5
 Kate loves you
+
+Section 6
+John hates you
